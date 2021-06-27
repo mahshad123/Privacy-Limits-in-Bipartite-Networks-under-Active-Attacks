@@ -3,8 +3,12 @@ This work considers active deanonymization of bipartite networks. The scenario a
 
 In this article there are three different scenario: 
 
+**Random Data**
 1. Effect of Alpha on the number of queries: for this Scenario please run alpha_main.m
 2. Effect of multiple query noises on the number of queries:  for this Scenario please run query_noise_main.m
 3. Effect of multiple Scan noises on the number of queries:   for this Scenario please run scan_noise_main.m
 
 In this article we investigate the scenarios on real network data either: 
+
+**Real Data**
+for the dataset for this part please look at "dataset.txt"
